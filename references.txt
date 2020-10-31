@@ -3,3 +3,8 @@ https://beginnersbook.com/2013/12/how-to-convert-string-to-int-in-java/
 https://www.sitepoint.com/java-8-streams-filter-map-reduce/
 https://www.geeksforgeeks.org/sieve-of-eratosthenes/
 http://web.mit.edu/6.031/www/fa17/classes/26-map-filter-reduce/#reduce
+https://howtodoinjava.com/java/io/java-filereader/
+https://www.geeksforgeeks.org/md5-hash-in-java/
+https://www.javatpoint.com/java-string-lastindexof
+https://www.javatpoint.com/substring
+https://www.tutorialspoint.com/java/java_arrays.htm
