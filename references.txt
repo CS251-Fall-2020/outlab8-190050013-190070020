@@ -1,1 +1,2 @@
 https://www.w3schools.com/java/java_files_read.asp
+https://beginnersbook.com/2013/12/how-to-convert-string-to-int-in-java/
