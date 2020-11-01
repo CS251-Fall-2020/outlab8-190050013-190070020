@@ -8,3 +8,10 @@ https://www.geeksforgeeks.org/md5-hash-in-java/
 https://www.javatpoint.com/java-string-lastindexof
 https://www.javatpoint.com/substring
 https://www.tutorialspoint.com/java/java_arrays.htm
+https://alvinalexander.com/blog/post/jfc-swing/how-determine-get-screen-size-java-swing-app/
+https://www.javatpoint.com/java-swing
+https://www.tutorialspoint.com/how-to-add-action-listener-to-jbutton-in-java
+https://docs.oracle.com/javase/7/docs/api/javax/swing/JFileChooser.html
+https://www.geeksforgeeks.org/multidimensional-arrays-in-java/
+https://www.w3schools.com/java/java_arraylist.asp
+http://www.knowledgewala.com/java-swing-program-to-generate-jtable-with-add-delete-update-operation/
