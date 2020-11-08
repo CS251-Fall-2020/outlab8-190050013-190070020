@@ -11,7 +11,7 @@ class Sieve
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     int N = Integer.parseInt(br.readLine());
 
-    if(N == 1)
+    if(N <= 1)
     {
       return;
     }
